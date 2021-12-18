@@ -1,5 +1,5 @@
 # 365-Entertainment 🎬📽
-A movie website with HTML, CSS, and Vanilla JavaScript</br>
+A movie website with HTML, CSS, and JavaScript</br>
 
 
 ## Features: 
